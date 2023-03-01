@@ -1,0 +1,14 @@
+{
+  "name": "vega_project",
+  "version": "1.0.0",
+  "description": "initial using test for vega",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "giacomocerretini",
+  "license": "ISC",
+  "dependencies": {
+    "vega-embed": "^6.21.3"
+  }
+}
