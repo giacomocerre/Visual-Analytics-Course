@@ -44,7 +44,7 @@ Vue.js is a popular JavaScript framework for building user interfaces. Here's ho
 1. Open a terminal or command prompt.
 2. Install Vue.js by running: `npm install -g vue-cli`
 3. Navigate to the directory where you want to create your project.
-4. Create a new Vue.js project by running: `vue init webpack my-project`
+4. Create a new Vue.js project by running: `npm init vue@latest` inside a folder
 5. Follow the prompts to configure your project.
 
 ## Installing Git
